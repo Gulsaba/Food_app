@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header {
+    position: fixed;
+    top: 0;
+    margin-left: 0%;
+    background-color: #8a2b06;
+    color: white;
+    width: 100%;
+    height: 4rem;
+    display: flex;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+   z-index: 10;
+   justify-content: space-between;
+   align-items: center;
+   
+  }
+  h2{
+      margin-left: 2rem;
+  }
+  
+ button{
+    margin-right: 4rem;
+ }
+ img{
+     width: 100%;
+     height: 100%;
+    
+     
+ }
+ .image{
+     height: 25rem;
+ }
